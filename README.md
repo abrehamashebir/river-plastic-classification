@@ -38,7 +38,6 @@ Each model is evaluated using **5-fold stratified cross-validation** with:
 - **Accuracy**
 - **Precision**
 - **Recall**
-
 ---
 
 ## 📁 Project Structure
